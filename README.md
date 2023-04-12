@@ -65,7 +65,8 @@ RegisterNumber:
 */
 Logic symbol & Truthtable
 RTL realization
-Output:
+Output:![Screenshot (16)](https://user-images.githubusercontent.com/123146156/231404091-da823915-0a4e-4352-bf09-a63ea1045619.png)
+
 RTL
 
 Result:
