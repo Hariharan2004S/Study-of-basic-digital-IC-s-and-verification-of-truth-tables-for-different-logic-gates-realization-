@@ -59,6 +59,7 @@ If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 
 Program:
+```vhd1
 module logicgates(a,b,o1,o2,o3,o4,o5,o6,o7);
 input a,b;
 output o1,o2,o3,o4,o5,o6,o7;
@@ -70,6 +71,7 @@ nor(o5,a,b);
 xnor(o6,a,b);
 not(o7,a);
 endmodule 
+```
 
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
